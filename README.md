@@ -16,7 +16,7 @@ This is a front-end web application that fetches and displays data from a public
 
 To get started with the project locally, clone this repository to your machine:
 
-git clone https://github.com/yourusername/api-fetch-app.git
+git clone https://github.com/danielasrat/api-fetch-app.git
 cd api-fetch-app
 
 2. Install Dependencies
